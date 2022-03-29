@@ -1,0 +1,9 @@
+.div2 { 
+  padding: 10px ;
+  margin: 20px ;
+
+  width: 800px;
+  height: auto;
+  border: 2px solid blue;
+  font-size-adjust: auto;
+}
